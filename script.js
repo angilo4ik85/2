@@ -13,7 +13,7 @@ buttonOne.addEventListener("click", function() {
     buttonOne.style.display = "none";
     btnOne.style.display = "block";
 
-    const timerOne = 1;
+    const timerOne = 10;
     let amountTimeOne = timerOne * 60;
 
     function calculateTimeOne() {
